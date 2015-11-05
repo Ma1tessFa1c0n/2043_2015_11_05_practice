@@ -1,0 +1,53 @@
+notes for starting github
+
+step 1 get a git hub account
+your user name for reference: Ma1teseFa1c0n
+
+step 2 use a machine with git installed
+
+step 3 open command prompt
+
+big idea 1 :get to your folder
+
+>dir
+...
+C:\Users\LAB>dir
+ Volume in drive C is OS
+ Volume Serial Number is 948A-749E
+
+ Directory of C:\Users\LAB
+
+06/21/2012  01:13 PM    <DIR>          .
+06/21/2012  01:13 PM    <DIR>          ..
+05/14/2015  08:08 AM    <DIR>          Contacts
+11/05/2015  08:12 AM    <DIR>          Desktop
+05/14/2015  08:08 AM    <DIR>          Documents
+05/14/2015  08:08 AM    <DIR>          Downloads
+05/14/2015  08:08 AM    <DIR>          Favorites
+05/14/2015  08:08 AM    <DIR>          Links
+05/14/2015  08:08 AM    <DIR>          Music
+05/14/2015  08:08 AM    <DIR>          Pictures
+05/14/2015  08:08 AM    <DIR>          Saved Games
+05/14/2015  08:08 AM    <DIR>          Searches
+05/14/2015  08:08 AM    <DIR>          Videos
+               0 File(s)              0 bytes
+              13 Dir(s)  410,623,070,208 bytes free
+
+C:\Users\LAB>cd Desktop
+
+C:\Users\LAB\Desktop>dir
+ Volume in drive C is OS
+ Volume Serial Number is 948A-749E
+
+ Directory of C:\Users\LAB\Desktop
+
+11/05/2015  08:12 AM    <DIR>          .
+11/05/2015  08:12 AM    <DIR>          ..
+11/05/2015  08:12 AM    <DIR>          2043 git practisis
+06/21/2012  02:16 PM             1,553 Report Problems-ITS.lnk
+               1 File(s)          1,553 bytes
+               3 Dir(s)  410,623,070,208 bytes free
+
+C:\Users\LAB\Desktop>cd 2043 git practisis
+
+C:\Users\LAB\Desktop\2043 git practisis>
