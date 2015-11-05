@@ -51,3 +51,11 @@ C:\Users\LAB\Desktop>dir
 C:\Users\LAB\Desktop>cd 2043 git practisis
 
 C:\Users\LAB\Desktop\2043 git practisis>
+...
+big idea 2: set up your git folder
+step 1: go to github.com
+step 2: sign in
+step 3: create a new repository
+step 4: name repository
+step 5: add discription 
+step 6: don't initalize with README file 
